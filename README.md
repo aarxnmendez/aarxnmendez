@@ -21,7 +21,7 @@
 
 ## My Skills Include
 <div>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" align="right"/>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
