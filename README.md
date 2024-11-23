@@ -9,16 +9,15 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 - :school: I'm currently studying **Web Development**, focusing on **PHP**, **JavaScript**, **HTML**, and **CSS**.  
-- 🔗 My goal is to learn as much as possible about programming, and I'm currently working on building a solid foundation with **Node.js**, **TypeScript**, **Tailwind CSS**, and **React**.  
-- 💡 I'm passionate about creating functional, dynamic websites and improving my skills with each project I take on.  
-- 🚀 I strive to keep learning and pushing myself to explore new technologies and frameworks to grow as a developer.
+- 💡 My goal is to learn as much as possible about programming, and I'm working on building a solid foundation in these technologies.  
+- 🚀 I'm always eager to expand my skills and explore new frameworks and tools, aiming to become a versatile web developer.  
+- 📚 I'm excited to continue learning and improving my knowledge in **web development**, with a focus on building functional and dynamic websites.
 
 ## 🚀 My Learning Goals
 
-- Master **Node.js** for server-side development.
-- Gain proficiency in **TypeScript** to enhance my JavaScript knowledge.
-- Dive into **React** and **Tailwind CSS** to build modern, responsive user interfaces.
-- Continue to improve my understanding of web development principles and best practices.
+- Strengthen my knowledge of **PHP**, **JavaScript**, **HTML**, and **CSS**.
+- Gain more experience with **backend development** and **front-end design**.
+- In the future, I'd like to learn **Node.js**, **TypeScript**, **Tailwind CSS**, and **React** to further enhance my development skills.
 
 ## My Skills Include
 <div>
@@ -29,8 +28,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
