@@ -47,7 +47,7 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=aarxnmendez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p><img src="https://github-readme-stats.vercel.app/api?username=aarxnmendez&show_icons=true&locale=en&bg_color=0099ff&text_color=ffffff&repo=convoychat"
     alt="aarxnmendez" /></p>
 
 <br>
