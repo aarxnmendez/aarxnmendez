@@ -5,12 +5,21 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+<h2>
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon">
+  </picture> About Me
+</h2>
 
-- :school: I'm currently studying **Web Development**, focusing on **PHP**, **JavaScript**, **HTML**, and **CSS**.  
-- 💡 My goal is to learn as much as possible about programming, and I'm working on building a solid foundation in these technologies.  
-- 🚀 I'm always eager to expand my skills and explore new frameworks and tools, aiming to become a versatile web developer.  
-- 📚 I'm excited to continue learning and improving my knowledge in **web development**, with a focus on building functional and dynamic websites.
+<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+<ul>
+  <li>🎓 I'm currently studying <strong>Web Development</strong>, focusing on <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>CSS</strong>.</li>
+  <li>💡 My goal is to learn as much as possible about programming, and I'm working on building a solid foundation in these technologies.</li>
+  <li>🚀 I'm always eager to expand my skills and explore new frameworks and tools, aiming to become a versatile web developer.</li>
+  <li>📚 I'm excited to continue learning and improving my knowledge in <strong>web development</strong>, with a focus on building functional and dynamic websites.</li>
+</ul>
+
 
 ## 🚀 My Learning Goals
 
