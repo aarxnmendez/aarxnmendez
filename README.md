@@ -11,7 +11,7 @@
   </picture> About Me
 </h2>
 
-<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="margin-top: 5px;">
+<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <ul>
   <li>🎓 I'm currently studying <strong>Web Development</strong>, focusing on <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>CSS</strong>.</li>
