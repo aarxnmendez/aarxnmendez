@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Web+Development+Student;PHP+%26+JavaScript+Enthusiast;Building+projects+step+by+step.;Always+learning+and+exploring!">
   </a>
 </p>
-
 <h2>
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon">
