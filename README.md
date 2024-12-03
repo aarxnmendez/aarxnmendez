@@ -19,7 +19,6 @@
   <li>📚 I'm excited to continue learning and improving my knowledge in <strong>web development</strong>, with a focus on building functional and dynamic websites.</li>
 </ul>
 
-
 ## 🚀 My Learning Goals
 
 - Strengthen my knowledge of **PHP**, **JavaScript**, **HTML**, and **CSS**.
