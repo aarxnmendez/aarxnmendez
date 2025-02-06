@@ -23,10 +23,18 @@
 
 ### 💪 Strong Skills
 <span>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
 </span>
 
 - **Languages:** JavaScript, HTML, CSS  
@@ -34,14 +42,18 @@
 
 ### 🚀 Intermediate
 <span>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <a target="_blank" href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
 </span>
 
 - **Backend Development:** PHP (MySQLi, PDO, CRUD...)  
 
 ### 📚 Learning
 <span>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <a target="_blank" href="https://react.dev/">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </a>
 </span>
 
 - **Frontend Frameworks:** React (basic knowledge: `useState`, `useEffect`, etc.)  
@@ -50,12 +62,24 @@
 
 ## ⚙️ Tools & Development Workflow
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Plesk-52A2E7?style=for-the-badge&logo=plesk&logoColor=white">
+  <a target="_blank" href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a target="_blank" href="https://github.com/">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a target="_blank" href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.jetbrains.com/phpstorm/">
+    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+  </a>
+  <a target="_blank" href="https://vite.dev/">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.plesk.com/">
+    <img src="https://img.shields.io/badge/Plesk-52A2E7?style=for-the-badge&logo=plesk&logoColor=white">
+  </a>
 </span>
 
 - **Version Control:** Git, GitHub
