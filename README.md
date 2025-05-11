@@ -1,4 +1,4 @@
-# Hi, I'm Aaron Mendez 👋
+<h1><b>Hi , I'm Aarón Méndez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -9,8 +9,17 @@
 ---
 
 ## 🛠️ About Me
-
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<p>
+  <a href="https://github.com/aarxnmendez">
+    <img 
+      align="right"
+      width="400px"
+      height="200px"
+      alt="Aaron's Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarxnmendez&layout=compact&bg_color=0D1017&text_color=E8EDF3D5&title_color=E8EDF3&hide_border=false&border_radius=0&card_width=414&card_height=195" 
+    />
+  </a>
+</p>
 
 - 💻 I’m a **web developer** focused on building solid and maintainable web applications.
 - 🚀 I’m continuously improving my skills with tools like **React**, **Tailwind CSS**, **Laravel**, and **Docker** (for local development).
@@ -119,16 +128,14 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p><img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aarxnmendez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="aarxnmendez" 
-    bg_color=#808080/></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=aarxnmendez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="aarxnmendez" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aarxnmendez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aarxnmendez" /></p>
+<p><a href="https://github.com/aarxnmendez">
+      <img alt="Aaron's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=aarxnmendez&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a></p>
+  <p><a href="https://github.com/aarxnmendez">
+<img src="https://github-readme-stats.vercel.app/api?username=aarxnmendez&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+    </a></p>
+    
+![Aaron's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aarxnmendez&custom_title=Aaron's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
 
