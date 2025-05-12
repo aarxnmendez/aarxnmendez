@@ -9,12 +9,6 @@
 ---
 
 ## 🛠️ About Me
-<p>
-  <a href="https://github.com/aarxnmendez">
-    <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  </a>
-</p>
-
 - 💻 I’m a **web developer** focused on building solid and maintainable web applications.
 - 🚀 I’m continuously improving my skills with tools like **React**, **Tailwind CSS**, **Laravel**, and **Docker** (for local development).
 - 🖥️ I’ve worked on **professional projects** for clients using **WordPress** and enjoy refining both frontend and backend workflows.
