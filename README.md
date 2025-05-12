@@ -11,13 +11,7 @@
 ## 🛠️ About Me
 <p>
   <a href="https://github.com/aarxnmendez">
-    <img 
-      align="right"
-      width="400px"
-      height="200px"
-      alt="Aaron's Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarxnmendez&layout=compact&bg_color=0D1017&text_color=E8EDF3D5&title_color=E8EDF3&hide_border=false&border_radius=0&card_width=414&card_height=195" 
-    />
+    <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   </a>
 </p>
 
@@ -142,7 +136,7 @@
 ## 🌍 Let's Connect!
 
 <p align="center">
-   <i>The only way to do great work is to love what you do.</i>
+   <i>Small progress each day leads to big results.</i>
    <br><br>
    <a href="https://www.linkedin.com/in/aaronmendezz/">
      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
