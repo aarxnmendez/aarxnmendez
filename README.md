@@ -17,7 +17,7 @@ Frontend developer with experience in **JavaScript and PHP**, focused on buildin
 
 ---
 ## 📊 GitHub Stats
-![Aaron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarxnmendez&background=000000&dates=white&sideNums=059669&sideLabels=white&currStreakLabel=white&currStreakNum=white&fire=059669&ring=059669&border=059669&hide_border=false&border_radius=10&card_width=455)
+![Aaron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarxnmendez&background=FFFFFF00&dates=FF8C00&sideNums=0066FF&sideLabels=FF8C00&currStreakLabel=FF8C00&currStreakNum=FF8C00&fire=0066FF&ring=0066FF&border=0066FF&hide_border=false&border_radius=10&card_width=455)
 
 ---
 
