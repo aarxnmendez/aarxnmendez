@@ -1,7 +1,6 @@
 # Aarón Méndez
 Frontend developer with experience in **JavaScript and PHP**, focused on building functional and maintainable web applications. Currently studying **Computer Engineering**.
 
----
 ## 💻 Technologies
    Category       | Technologies                                                                                                                                                                                                 |
  |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,12 +13,6 @@ Frontend developer with experience in **JavaScript and PHP**, focused on buildin
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
----
-## 📊 GitHub Stats
-![Aaron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarxnmendez&background=FFFFFF00&dates=FF8C00&sideNums=0066FF&sideLabels=FF8C00&currStreakLabel=FF8C00&currStreakNum=FF8C00&fire=0066FF&ring=0066FF&border=0066FF&hide_border=false&border_radius=10&card_width=455)
-
----
 
 ## 🌍 Let's Connect!
 <p align="center">
