@@ -1,5 +1,6 @@
-# Aarón Méndez
-Frontend Developer focused on clean code and solid foundations. Crafting production-ready web apps with **JavaScript, PHP** and modern frameworks. **Computer Engineering** student by day, problem solver always. From A Coruña, Spain.
+# 👋 Hi, I’m Aaron Mendez
+
+**Frontend Developer** focused on clean code, solid foundations and great UX. I build production-ready web apps using **JavaScript**, **PHP**, and modern frameworks like **React**.  💡 ***Computer Engineering** student by day, problem solver always.* Currently learning, experimenting, and shipping things that make the web a little better ✨
 
 ## 💻 Technologies
    Category       | Technologies                                                                                                                                                                                                 |
