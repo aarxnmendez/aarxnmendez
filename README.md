@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Aaron Mendez
 
-**Frontend Developer** focused on clean code, solid foundations and great UX. I build production-ready web apps using **JavaScript**, **PHP**, and modern frameworks like **React**.  💡 ***Computer Engineering** student by day, problem solver always.* Currently learning, experimenting, and shipping things that make the web a little better ✨
+**Computer Engineering Student @UDC** | Software Development & Systems Architecture
+
+I balance professional Web Development with my Computer Engineering degree at UDC. Focused on understanding software under the hood and building robust, clean, and scalable web solutions using **JavaScript**, **PHP**, and modern frameworks like **React**.
 
 ## 💻 Technologies
    Category       | Technologies                                                                                                                                                                                                 |
