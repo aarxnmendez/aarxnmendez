@@ -18,13 +18,9 @@ I balance professional Web Development with my Computer Engineering degree at UD
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-298D46?style=for-the-badge)
 
 ## 🌍 Let's Connect!
-<p align="center">
-   <i>Small progress each day leads to big results.</i>
-   <br><br>
-   <a href="https://www.linkedin.com/in/aaronmendezz/">
+<a href="https://www.linkedin.com/in/aaronmendezz/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-   <a href="mailto:info@aaronmendez.es">
+</a>
+<a href="mailto:info@aaronmendez.es">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
-</p>
+</a>
